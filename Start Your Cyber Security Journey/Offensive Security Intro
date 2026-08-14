@@ -1,0 +1,36 @@
+Offensive Security Intro
+
+TASK 1
+
+Which person is doing offensive security?
+
+Sarah
+Mike
+
+Sarah
+
+TASK 2
+
+What is the bank account number shown in the FakeBank application?
+8881
+
+TASK 3
+
+Dirb found two URLs, which one of these is more likely to give us access to FakeBank's internal tools?
+http://fakebank.thm/bank-transfer
+
+TASK 4
+
+What could FakeBank do to make this bank-transfer page secure? Pick the most effective technique:
+
+Require login
+Make the URL harder to guess
+Move the page to another server
+
+Require login
+
+When Mrs. G Benjamin's account balance turns positive, a pop-up with green text appears.
+
+ Enter the green words as the answer (ALL CAPS)
+
+BANK-HACKED

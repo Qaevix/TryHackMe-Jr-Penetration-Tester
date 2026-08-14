@@ -1,0 +1,27 @@
+Search Skills
+
+TASK 2
+
+What domain is associated with the IP address 185.243.115.47?
+tryhackme.thm
+
+TASK 3
+
+How many security vendors have identified the file as dangerous?
+You can see a total count at the top of the page.
+52
+
+TASK 4
+
+What CVSS (Common Vulnerability Scoring System) classification did the vulnerability get?
+10
+
+TASK 5
+
+What is the example command?
+nc host.example.com 42
+
+TASK 6
+
+What is the name of the script in the repository that will demonstrate the vulnerability?
+exploit.py

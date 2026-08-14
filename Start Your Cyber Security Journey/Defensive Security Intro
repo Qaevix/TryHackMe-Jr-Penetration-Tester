@@ -1,0 +1,25 @@
+Defensive Security Intro
+
+TASK 1
+
+What is the main goal of defensive security?
+
+Detect and respond to attacks
+Attack systems to find flaws
+
+Detect and respond to attacks
+
+TASK 2
+
+Which source IP address is generating the suspicious traffic?
+32.122.195.63
+
+TASK 3
+
+Copy the latest URL that the attacker has tried to find and paste it below.
+https://fakebank.com/admin
+
+TASK 4
+
+When the success message appears, copy the flag and paste it below.
+THM{FAKEBANK-SECURED}
